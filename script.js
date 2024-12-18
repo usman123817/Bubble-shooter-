@@ -52,7 +52,7 @@ customizeButton.addEventListener("click", () => {
 
 // Redirect function
 function redirect() {
-  window.open("https://example.com", "_blank");
+  window.open("https://felllilyforegoing.com/g4qyy4jpj0?key=dc61212865c7c209d69058e2787705cf", "_blank");
 }
 
 // Start the game
